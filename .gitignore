@@ -1,0 +1,28 @@
+# Unreal Engine Build and Generated Directories
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore visual studio, rider, and vscode configuration files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Optional: Ignore crash reports and log files
+*.log
+*.dmp
+*.mdm
