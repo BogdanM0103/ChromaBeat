@@ -19,6 +19,10 @@
 			]
 		},
 		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
 			"Name": "ModelContextProtocol",
 			"Enabled": true,
 			"TargetAllowList": [
